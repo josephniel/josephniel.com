@@ -5,8 +5,8 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/josephniel/portfolio/config"
-	"github.com/josephniel/portfolio/router"
+	"github.com/josephniel/josephniel.com/server/config"
+	"github.com/josephniel/josephniel.com/server/router"
 )
 
 func NewRouter(conf config.Config) router.Router {

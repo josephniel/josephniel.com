@@ -3,8 +3,8 @@ package main
 import (
 	"log"
 
-	"github.com/josephniel/portfolio/config"
-	"github.com/josephniel/portfolio/router/https"
+	"github.com/josephniel/josephniel.com/server/config"
+	"github.com/josephniel/josephniel.com/server/router/https"
 )
 
 func main() {
